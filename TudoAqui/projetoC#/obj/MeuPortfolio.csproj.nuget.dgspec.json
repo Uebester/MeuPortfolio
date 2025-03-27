@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uebes\\OneDrive\\Documentos\\MeuPortifolio\\Portfolio\\projetoC#\\MeuPortfolio.csproj": {}
+    "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\MeuPortfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uebes\\OneDrive\\Documentos\\MeuPortifolio\\Portfolio\\projetoC#\\MeuPortfolio.csproj": {
+    "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\MeuPortfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uebes\\OneDrive\\Documentos\\MeuPortifolio\\Portfolio\\projetoC#\\MeuPortfolio.csproj",
+        "projectUniqueName": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\MeuPortfolio.csproj",
         "projectName": "MeuPortfolio",
-        "projectPath": "C:\\Users\\uebes\\OneDrive\\Documentos\\MeuPortifolio\\Portfolio\\projetoC#\\MeuPortfolio.csproj",
+        "projectPath": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\MeuPortfolio.csproj",
         "packagesPath": "C:\\Users\\uebes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uebes\\OneDrive\\Documentos\\MeuPortifolio\\Portfolio\\projetoC#\\obj\\",
+        "outputPath": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uebes\\AppData\\Roaming\\NuGet\\NuGet.Config"

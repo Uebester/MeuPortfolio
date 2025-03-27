@@ -103,3 +103,18 @@ html {
   width:400px;
   height: 40px;
 }
+
+
+.meus_icones{
+  width: 150px;
+  margin-left: 900px;
+  margin-top: 200px;
+}
+
+
+.eu_aqui{
+  position: absolute;
+  color: rgb(121, 9, 233);
+  font-size: 50px;
+  margin-top: 150px;
+}
