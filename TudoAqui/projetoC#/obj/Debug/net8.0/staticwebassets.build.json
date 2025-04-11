@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VRNEB57/89iRJEsfyH2Y4eq4FJGokTlpL6KFpUaU4/k=",
+  "Hash": "UXr/JUeydcYwmw1mxFZvAf11lqU9kRwXMam/nQ3XwGo=",
   "Source": "MeuPortfolio",
   "BasePath": "_content/MeuPortfolio",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\imag.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\wwwroot\\img\\png-transparent-c-removebg-preview.png",
+      "SourceId": "MeuPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\wwwroot\\",
+      "BasePath": "_content/MeuPortfolio",
+      "RelativePath": "img/png-transparent-c-removebg-preview.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\png-transparent-c-removebg-preview.png"
     },
     {
       "Identity": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\wwwroot\\js\\site.js",
