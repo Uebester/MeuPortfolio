@@ -13,12 +13,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\wwwroot\\img\\imag.jpeg",
-      "PackagePath": "staticwebassets\\img\\imag.jpeg"
+      "Id": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\wwwroot\\img\\JSscrip.png",
+      "PackagePath": "staticwebassets\\img\\JSscrip.png"
     },
     {
-      "Id": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\wwwroot\\img\\png-transparent-c-removebg-preview.png",
-      "PackagePath": "staticwebassets\\img\\png-transparent-c-removebg-preview.png"
+      "Id": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\wwwroot\\img\\cs.png",
+      "PackagePath": "staticwebassets\\img\\cs.png"
+    },
+    {
+      "Id": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\wwwroot\\img\\csh.png",
+      "PackagePath": "staticwebassets\\img\\csh.png"
+    },
+    {
+      "Id": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\wwwroot\\img\\ht.png",
+      "PackagePath": "staticwebassets\\img\\ht.png"
+    },
+    {
+      "Id": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\wwwroot\\img\\imag.jpeg",
+      "PackagePath": "staticwebassets\\img\\imag.jpeg"
     },
     {
       "Id": "C:\\Users\\uebes\\OneDrive\\Documentos\\GitHub\\MeuPortfolio\\TudoAqui\\projetoC#\\wwwroot\\js\\site.js",
